@@ -2,3 +2,5 @@ pyttsx3
 SpeechRecognition
 wikipedia
 pyaudio
+setuptools
+pipwin
